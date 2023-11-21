@@ -1,2 +1,2 @@
 # TestApp
-Initiation HTML et CSS
+Initiation HTML et CSS et JS
